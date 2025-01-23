@@ -31,6 +31,6 @@ No current changes planned at this time.
 - Rational for each commitment
 - Declaration of safeguarding measures
 
-[00.01.01]: https://github.com/Nice-Things-Media/Commitment/commit/todo->add_commit_identifier
-[00.01.00]: https://github.com/Nice-Things-Media/Commitment/commit/todo->add_commit_identifier
+[00.01.01]: https://github.com/Nice-Things-Media/Commitment/commit/8e272e6177abd49b14964122ec4add058630e190
+[00.01.00]: https://github.com/Nice-Things-Media/Commitment/commit/d2cb014b7f921bdf1e88abf2a11390794ffedc56
 [Unreleased]: https://github.com/Nice-Things-Media/Commitment/Changelog.md
