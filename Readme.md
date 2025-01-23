@@ -1,4 +1,4 @@
-![Logo](./source/logo.svg)
+![Logo](./source/img/logo.svg)
 
 # Nice Things Commitment
 
@@ -15,7 +15,7 @@ In short, projects undertaken by NTM will abide by the following:
 
 ## In Full
 
-A copy of the most up-to-date version of the documentation, including detailed rationale, will be available in pdf format as a [release](https://github.com/Nice-Things-Media/Commitment/releases).
+A copy of the most up-to-date version of the documentation, including detailed rationale, will be available in pdf format as the [latest release](https://github.com/Nice-Things-Media/Commitment/releases/tag/v0.1.0).
 
 ## Changes
 
