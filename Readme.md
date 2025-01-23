@@ -15,11 +15,7 @@ In short, projects undertaken by NTM will abide by the following:
 
 ## In Full
 
-<<<<<<< HEAD
 A copy of the most up-to-date version of the documentation, including detailed rationale, will be available in pdf format as the [latest release](https://github.com/Nice-Things-Media/Commitment/releases/tag/v0.1.1).
-=======
-A copy of the most up-to-date version of the documentation, including detailed rationale, will be available in pdf format as the [latest release](https://github.com/Nice-Things-Media/Commitment/releases/tag/v0.1.0).
->>>>>>> 92cd09be93e0adb5d76f6db621d754f1d1760aad
 
 ## Changes
 
