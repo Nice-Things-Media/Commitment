@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-No current changes planned at this time.
+Restructure directories and files to actually record diffs. After all that faffing to get pdf from md, current folder structure will not enable comparison.
 
 ## [00.01.01] - 2025-01-23
 
@@ -31,6 +31,6 @@ No current changes planned at this time.
 - Rational for each commitment
 - Declaration of safeguarding measures
 
-[00.01.01]: https://github.com/Nice-Things-Media/Commitment/commit/8e272e6177abd49b14964122ec4add058630e190
+[00.01.01]: https://github.com/Nice-Things-Media/Commitment/commit/bbb9f380c92f54f2a3fd386425413d23fe4ae819
 [00.01.00]: https://github.com/Nice-Things-Media/Commitment/commit/d2cb014b7f921bdf1e88abf2a11390794ffedc56
-[Unreleased]: https://github.com/Nice-Things-Media/Commitment/Changelog.md
+[Unreleased]: https://github.com/Nice-Things-Media/Commitment/blob/main/Changelog.md
